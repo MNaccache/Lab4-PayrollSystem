@@ -1,2 +1,2 @@
-# Lab4-PayrollSystem
-Lab 4 of my CS145 class, only Date.java was written by me.
+Lab 4 of my CS145 class at Whatcom Community College.
+Only Date.java was written by me.
